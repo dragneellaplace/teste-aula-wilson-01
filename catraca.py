@@ -2,8 +2,8 @@
 
 
 USUARIOS = {
-	"joao": "1234",
-	"maria": "5678",
+	"joao": "54321",
+	"maria": "5444",
 }
 MAX_TENTATIVAS = 3
 
