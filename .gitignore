@@ -1,4 +1,12 @@
+# Banco de dados local
+db.sqlite3
+*.db
+
+# Temporários do Python
 __pycache__/
 *.pyc
 .env
-.vscode/
+
+# Logs do sistema
+logs/
+*.log
