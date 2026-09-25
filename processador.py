@@ -2,7 +2,7 @@ print("Processador iniciado!")
 
 def soma(a, b):
     # Hotfix: corrige erro de tipo de dado na soma (conversão para float)
-    return float(a) + float(b)
+    return float(a) + float(b) # comentário diferente
 
 def divide(a, b):
     # Proteção contra divisão por zero
